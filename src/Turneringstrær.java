@@ -2,7 +2,9 @@ public class Turneringstrær {
     public static void main(String[] args) {
 
         int [] tall ={8,6,5,3,2,9};
-        // int [] a = {  9,8,9,8,5,2,9,8,6,5,3};
+        /* int [] a = {  9,8,9,8,5,2,9,8,6,5,3};
+
+         */
         int [] a = {2,9,8,6,5,3};
         int begin = 5;
 
