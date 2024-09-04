@@ -19,6 +19,6 @@ public class Test04 {
 
 
         }
-        System.out.println();
+        System.out.println("DEt er ned forbedret sout");
     }
 }
