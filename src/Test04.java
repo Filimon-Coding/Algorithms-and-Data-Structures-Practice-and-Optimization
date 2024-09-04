@@ -20,5 +20,6 @@ public class Test04 {
 
         }
         System.out.println();
+        System.out.println();
     }
 }
