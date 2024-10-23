@@ -16,8 +16,15 @@ public class Partisjonering {
     }
 
         public static void main(String[] args) {
-            int[] a = {8, 3, 89, 13, 1, 9, 20, 3, 18, 2, 6, 25, 14, 8, 20, 16, 5, 21, 11, 14};
-            int skilleverdi = 3;
+            int[] a = {8, 3, 15, 13, 1, 9, 20, 3, 18, 2, 6, 25, 14, 8, 20, 16, 5, 21, 11, 14};
+            System.out.println("Tabellen før partisjonering:");
+            for (int i : a) {
+                System.out.print(i + " ");
+            }
+            System.out.println("\n" +" ------------------------------------------------------");
+
+
+            int skilleverdi = 10;
             int resultat = parter0(a, 0, a.length - 1, skilleverdi);
 
             System.out.println("Tabellen etter partisjonering:");
