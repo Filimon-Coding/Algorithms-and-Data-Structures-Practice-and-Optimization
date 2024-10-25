@@ -24,7 +24,7 @@ public class Partisjonering {
             System.out.println("\n" +" ------------------------------------------------------");
 
 
-            int skilleverdi = 10;
+            int skilleverdi = 3;
             int resultat = parter0(a, 0, a.length - 1, skilleverdi);
 
             System.out.println("Tabellen etter partisjonering:");

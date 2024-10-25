@@ -43,7 +43,7 @@ public class ForskyvRightShift {
     // Hovedmetode for testing av rightshift
     public static void main(String[] args) {
         // Eksempel-tabell for testing
-        int[] tabell = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+        int[] tabell = {7, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
         // Skriver ut tabellen før forskyvningen
         System.out.println("Tabellen før rightshift:");
