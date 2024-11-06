@@ -1,4 +1,4 @@
-package Kap311;
+package Kap31;
 
 public interface Liste<T> {
     int antall();

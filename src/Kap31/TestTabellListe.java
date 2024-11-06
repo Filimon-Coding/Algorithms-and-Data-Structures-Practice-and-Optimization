@@ -1,4 +1,4 @@
-package Kap311;
+package Kap31;
 
 public class TestTabellListe {
     public static void main(String[] args) {

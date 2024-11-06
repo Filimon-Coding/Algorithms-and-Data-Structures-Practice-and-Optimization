@@ -1,4 +1,4 @@
-package Kap311.Ekstra;
+package Kap31.Ekstra;
 
 import java.util.Arrays;
 import java.util.Iterator;

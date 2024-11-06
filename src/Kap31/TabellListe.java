@@ -1,9 +1,7 @@
-package Kap311;
+package Kap31;
 
-import java.util.Arrays;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
-import java.util.Objects;
 
 public class TabellListe<T> implements Liste<T> {
     private T[] a;          // en tabell for å lagre elementene
