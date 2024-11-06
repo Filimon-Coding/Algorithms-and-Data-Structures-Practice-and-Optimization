@@ -70,6 +70,8 @@ public class TabellListe<T> implements Liste<T> {
         return s.toString();  // returnerer den ferdige strengen
     }
 
+
+
     // Hjelpemetode for å kontrollere indekser
     private void indeksKontroll(int indeks, boolean leggInn) {
         if (indeks < 0 || (leggInn ? indeks > antall : indeks >= antall)) {
