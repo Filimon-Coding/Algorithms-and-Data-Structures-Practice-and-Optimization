@@ -86,6 +86,7 @@ public class EnkeltLenketListeX<T> {
 
 
         // Skriver ut listen
+        // 
         System.out.println("Itererer gjennom listen:");
         liste.itererGjennomListe();
 
