@@ -17,6 +17,18 @@ public class Partisjonering {
 
         public static void main(String[] args) {
             int[] a = {3,4,1,3,4,2,2,1,2,4};
+            int[] b = {3,4,1,3,4,2,2,1,2,4};
+
+           //
+            System.out.println("Tabellen før partisjonering:");
+            for (int i : b) {
+                System.out.print(i + " ");
+            }
+            System.out.println("\n" +" ------------------------------------------------------");
+            ///
+
+
+            
             System.out.println("Tabellen før partisjonering:");
             for (int i : a) {
                 System.out.print(i + " ");
