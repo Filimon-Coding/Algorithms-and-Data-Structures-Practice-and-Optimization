@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class SysUtviklingPause {
 
     public static int tilfeldigTall (){
+        // Gjør om til klasse slik at det ser bedre ut
 
 
         return 0;
