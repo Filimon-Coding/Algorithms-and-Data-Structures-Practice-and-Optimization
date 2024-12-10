@@ -34,6 +34,9 @@ public class SystUtviklingPause2 {
 
         System.out.println("Tast inn tallet du tenker på det");
         System.out.println("Tast inn tallet du tenker på det");
+        System.out.println("Tast inn tallet du tenker på det");
+        System.out.println("Tast inn tallet du tenker på det");
+
 
         Scanner inputScan = new Scanner(System.in);
        int brukerInnput = inputScan.nextInt();
