@@ -14,6 +14,14 @@ public class SystUtviklingPause2 {
 
 
         return 0;
+    }public static int gjetterx(int [] a, int mottat){
+
+
+
+
+
+
+        return 0;
     }
     public static void printArray(int[] array) {
         for (int num : array) {
