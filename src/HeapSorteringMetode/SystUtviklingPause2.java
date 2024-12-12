@@ -83,6 +83,12 @@ public class SystUtviklingPause2 {
                // int brukeInnputplus10Ganges = brukerInnputPlus10 * alder ;
                 int endeligSvar = (brukerInnputPlus10 - 10);
                 int endligsvarForAlder = endeligSvar + alder;
+                /*
+        int endeligSvar = (brukerInnputPlus10 - 10);
+        int endligsvarForAlder = endeligSvar + alder;
+
+                 */
+
         System.out.println("Din alder samletmed tallet i hodet er : " + endligsvarForAlder);
 
 
