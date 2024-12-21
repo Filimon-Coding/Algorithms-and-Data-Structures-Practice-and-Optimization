@@ -18,6 +18,8 @@ public class Flettesortering {
         // Rekursivt kall på venstre halvdel
         flettesortering(a, b, fra, midt);
 
+
+
         // Rekursivt kall på høyre halvdel
         flettesortering(a, b, midt, til);
 
