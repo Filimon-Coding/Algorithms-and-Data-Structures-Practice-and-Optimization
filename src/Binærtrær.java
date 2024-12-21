@@ -14,6 +14,8 @@ public class Binærtrær {
         }
     }
 
+
+
     // Main method to demonstrate parent and sibling relationships
     public static void main(String[] args) {
         int[] nodes = {5, 10, 11, 20, 21, 22, 23};  // Example node ids
