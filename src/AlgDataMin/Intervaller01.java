@@ -1,3 +1,4 @@
+package AlgDataMin;
 
 public class Intervaller01 {
     public static void main(String[] args) {

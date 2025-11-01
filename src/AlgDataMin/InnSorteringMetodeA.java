@@ -1,4 +1,6 @@
- class InnsorteringMetodeLese {
+package AlgDataMin;
+
+class InnsorteringMetodeLese {
      // Metode for innsortering
      public static void innsortering(int[] tabell) {
          int n = tabell.length;

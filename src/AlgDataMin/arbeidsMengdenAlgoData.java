@@ -1,4 +1,4 @@
-import java.io.FilterOutputStream;
+package AlgDataMin;
 
 public class arbeidsMengdenAlgoData {
 

@@ -1,3 +1,5 @@
+package AlgDataMin;
+
 public class Turneringstrær {
     public static void main(String[] args) {
 

@@ -48,7 +48,7 @@ public class Eksamen2017Opp2 {
         int svar = maksFinner(test);
         System.out.println("maks på array : " + svar);
 
-        // Test 2: Generisk maks-metode for Iterable
+        // AlgDataMin.Test 2: Generisk maks-metode for Iterable
         Iterable<Integer> testIterable = Arrays.asList(5, 16, 17, 2, 11);
         int svarGenerisk = maks(testIterable, Integer::compare);
 

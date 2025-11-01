@@ -1,4 +1,4 @@
-package webprog.oblig3;
+package AlgDataMin;
 
 public class Billett {
     private int id;

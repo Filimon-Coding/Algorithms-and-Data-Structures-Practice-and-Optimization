@@ -1,3 +1,5 @@
+package AlgDataMin;
+
 public class Turnering {
 
     public static int[] finnStørsteOgNestStørste(int[] tall) {

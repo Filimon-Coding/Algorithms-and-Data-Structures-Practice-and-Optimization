@@ -1,3 +1,5 @@
+package AlgDataMin;
+
 public class Eksempel112 {
 
     // Method to find the index of the maximum value in an array
@@ -32,7 +34,7 @@ public class Eksempel112 {
 
 
 
-    // Main method to test the maks function
+    // AlgDataMin.Main method to test the maks function
     public static void main(String[] args) {
         int[] tallliste = {8,4,	17,	10,6,20,1,11,15,3,18,9,2,7,19};  // Example array
 

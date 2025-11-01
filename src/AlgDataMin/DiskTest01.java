@@ -1,3 +1,5 @@
+package AlgDataMin;
+
 public class DiskTest01 {
     public static void main(String[] args) {
         int n = 11;

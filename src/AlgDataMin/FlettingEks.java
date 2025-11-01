@@ -1,3 +1,5 @@
+package AlgDataMin;
+
 public class FlettingEks {
 
     public static int flett (int [] a , int [] b, int [] c, int m, int n ){ // Endret parameterrekkefølgen

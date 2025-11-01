@@ -76,12 +76,12 @@ public class tabellBeholder<T> implements Beholder<T> {
         throw new UnsupportedOperationException("Iterator ikke implementert.");
     }
 
-    // Test programmet i main-metoden
+    // AlgDataMin.Test programmet i main-metoden
     public static void main(String[] args) {
         // Opprett en beholder for heltall med plass til 5 elementer
         tabellBeholder<Integer> beholder = new tabellBeholder<>(5);
 
-        // Test leggInn-metoden
+        // AlgDataMin.Test leggInn-metoden
         beholder.leggInn(1);
         beholder.leggInn(2);
         beholder.leggInn(3);
@@ -89,18 +89,18 @@ public class tabellBeholder<T> implements Beholder<T> {
         beholder.leggInn(5);
         beholder.leggInn(6);  // Skal ikke kunne legges til, beholder er full
 
-        // Test inneholder-metoden
+        // AlgDataMin.Test inneholder-metoden
         System.out.println("Inneholder 3? " + beholder.inneholder(3));  // true
         System.out.println("Inneholder 6? " + beholder.inneholder(6));  // false
 
-        // Test fjern-metoden
+        // AlgDataMin.Test fjern-metoden
         beholder.fjern(3);  // Fjern 3
         System.out.println("Inneholder 3 etter fjerning? " + beholder.inneholder(3));  // false
 
-        // Test antall-metoden
+        // AlgDataMin.Test antall-metoden
         System.out.println("Antall elementer i beholderen: " + beholder.antall());  // 4
 
-        // Test nullstill-metoden
+        // AlgDataMin.Test nullstill-metoden
         beholder.nullstill();
         System.out.println("Antall elementer etter nullstilling: " + beholder.antall());  // 0
     }

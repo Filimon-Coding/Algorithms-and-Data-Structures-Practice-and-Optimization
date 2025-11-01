@@ -3,7 +3,7 @@ package HeapSorteringMetode;
 
 public class HashMap {
     public static void main(String[] args) {
-        System.out.println("HashMap Test");
+        System.out.println("HashMap AlgDataMin.Test");
 
 
     }

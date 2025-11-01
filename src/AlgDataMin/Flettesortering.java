@@ -1,3 +1,5 @@
+package AlgDataMin;
+
 import java.util.Arrays;
 
 public class Flettesortering {

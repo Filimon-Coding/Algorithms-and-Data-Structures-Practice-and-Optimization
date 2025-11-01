@@ -1,3 +1,5 @@
+package AlgDataMin;
+
 public class shellSortEks {
 
     public static void shellSort (int []tabellList ){

@@ -60,7 +60,7 @@ public class EnkelBeholder {
         beholder.leggInn(10);
         beholder.leggInn(15);
 
-        // Test for sjekk om størrelse er fult
+        // AlgDataMin.Test for sjekk om størrelse er fult
         beholder.leggInn(20);
 
 

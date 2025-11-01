@@ -1,3 +1,5 @@
+package AlgDataMin;
+
 public class Test05 {
 
     public static int  lineaertSok (int [] tabell, int verdi) {

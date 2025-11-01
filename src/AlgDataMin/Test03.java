@@ -1,3 +1,5 @@
+package AlgDataMin;
+
 import java.util.NoSuchElementException;
 
 public class Test03 {

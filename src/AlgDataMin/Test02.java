@@ -1,3 +1,5 @@
+package AlgDataMin;
+
 public class Test02 {
     public static void main(String[] args) {
         int[] a = {3, 8, 2, 7, 5, 1};  // Example array

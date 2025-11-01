@@ -1,3 +1,5 @@
+package AlgDataMin;
+
 public class KvikkSorteringEks {
 
     // Kvikksorteringsmetoden som bruker rekursjon
@@ -50,7 +52,7 @@ public class KvikkSorteringEks {
         System.out.println();  // Ny linje etter utskrift
     }
 
-    // Main-metoden for å teste kvikksortering
+    // AlgDataMin.Main-metoden for å teste kvikksortering
     public static void main(String[] args) {
         // Eksempel på en usortert tabell
         int[] testList = {8, 3, 15, 13, 1, 9, 20, 3, 18, 2, 6};
